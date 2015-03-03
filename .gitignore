@@ -3,7 +3,7 @@
 *.iml
 
 ## Directory-based project format:
-.idea
-.gradle
-gradle
-build
+.idea/
+.gradle/
+gradle/
+build/
