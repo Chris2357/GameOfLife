@@ -1,3 +1,3 @@
 #GAME OF LIFE
-##implementation in java
+##Implementation in java
 practice for java tdd kata
